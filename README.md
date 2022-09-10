@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Retail Manager Project](https://github.com/DarshanSudhakar/RetailManager) and [my personal site](https://github.com/DarshanSudhakar/darshansudhakar.github.io)
+- 🔭 I’m currently working on a project that handles [Retail](https://github.com/DarshanSudhakar/RetailManager). With that I am working on [my personal portfolio site](https://github.com/DarshanSudhakar/darshansudhakar.github.io) in parallel
 - 🌱 I’m currently learning Software Architecture
 - 👯 I’m looking to collaborate on [Retail Manager Project](https://github.com/DarshanSudhakar/RetailManager)
 - 💬 Ask me about 
