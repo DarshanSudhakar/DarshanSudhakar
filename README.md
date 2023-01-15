@@ -1,4 +1,4 @@
-### Hi there, I'm [Darshan!](https://github.com/DarshanSudhakar) 👋
+### Hi there, I'm [Darshan!](https://darshansudhakar.github.io/) 👋
 
 Here are some ideas to get you started:
 
