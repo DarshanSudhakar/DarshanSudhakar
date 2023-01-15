@@ -8,4 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Money Management and programming
 - ⚡ Fun fact: I use the word "Ok" more than needed :innocent:
 
-![Darshan's github stats](https://github-readme-stats-darshansudhakar.vercel.app/api?username=darshansudhakar)
+<details>
+  <summary> ⚡ Darshan's GitHub stats </summary>
+  <img alt="Darshan's Github stats" align="left" src="https://github-readme-stats-darshansudhakar.vercel.app/api?username=darshansudhakar"/>
+</details>
