@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Money Management and programming
 - ⚡ Fun fact: I use the word "Ok" more than needed :innocent:
 
-![Darshan's github stats](https://github-readme-stats.vercel.app/api?username=darshansudhakar)
+![Darshan's github stats](https://github-readme-stats-darshansudhakar.vercel.app/api?username=darshansudhakar)
